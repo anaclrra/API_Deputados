@@ -1,4 +1,3 @@
-// src/DeputadosScreen.js
 import React, { useState, useEffect} from 'react';
 import { View, Text, FlatList, StyleSheet, TextInput, Image, ActivityIndicator} from 'react-native';
 import { Button} from 'react-native-paper';
